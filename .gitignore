@@ -1,0 +1,5 @@
+static/temp
+__pycache__
+.vscode
+env
+instance
